@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f84a6c-5ee2-47c7-924b-d75b6aa2bb75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Map/IntersectionOfTwoArraysII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/IntersectionOfTwoArraysII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Map/IntersectionOfTwoArraysII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586009038431</updated>
       <workItem from="1586009041750" duration="8305000" />
-      <workItem from="1586143167310" duration="3277000" />
+      <workItem from="1586143167310" duration="4292000" />
     </task>
     <servers />
   </component>
