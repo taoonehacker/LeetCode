@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Set" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Map" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PriorityQueue" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
