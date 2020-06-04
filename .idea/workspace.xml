@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="17f84a6c-5ee2-47c7-924b-d75b6aa2bb75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PriorityQueue/TopKFrequentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/RemoveLinkedListElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/RemoveLinkedListElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/IntersectionOfTwoArraysII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Map/IntersectionOfTwoArraysII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +52,17 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.RemoveDuplicatesfromSortedArray">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="TaoOneHacker.Main" />
       <module name="LeetCode" />
@@ -49,7 +73,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveDuplicatesfromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesfromSortedArray" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoSum" />
       <module name="LeetCode" />
       <method v="2">
@@ -57,12 +88,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.RemoveDuplicatesfromSortedArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.RemoveDuplicatesfromSortedArray" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -78,36 +111,111 @@
       <updated>1586009038431</updated>
       <workItem from="1586009041750" duration="8305000" />
       <workItem from="1586143167310" duration="5348000" />
+      <workItem from="1591235429305" duration="85000" />
+      <workItem from="1591235680914" duration="3772000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="127" key="#Project_Structure" timestamp="1586145010956">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="427" y="128" key="#Project_Structure" timestamp="1591236619291">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="427" y="128" key="#Project_Structure/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591236619291" />
     <state x="320" y="127" key="#Project_Structure/0.23.1440.877/1440.23.1920.1057/-1920.23.1920.1057@0.23.1440.877" timestamp="1586145010956" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1586141596835">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="476" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591247743334">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="476" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591236910528" />
+    <state x="476" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247743334" />
+    <state x="802" y="267" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1591247240043">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="802" y="267" key="#com.intellij.ide.macro.MacrosDialog/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247240043" />
+    <state x="640" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591235438538">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591235438538" />
+    <state x="880" y="308" key="EnvironmentVariablesDialog" timestamp="1591247245791">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="880" y="308" key="EnvironmentVariablesDialog/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247245791" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1591247922959">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591237164108" />
     <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-157.1920.1057/-1920.-114.1920.1057@0.23.1440.877" timestamp="1586012617938" />
     <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057/-1920.23.1920.1057@0.23.1440.877" timestamp="1586141596835" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1586141596834">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247922959" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1591247922959">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591237164107" />
     <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877/1440.-157.1920.1057/-1920.-114.1920.1057@0.23.1440.877" timestamp="1586012617936" />
     <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057/-1920.23.1920.1057@0.23.1440.877" timestamp="1586141596834" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1586141596833">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247922959" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1591247922959">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591237164107" />
     <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877/1440.-157.1920.1057/-1920.-114.1920.1057@0.23.1440.877" timestamp="1586012617936" />
     <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057/-1920.23.1920.1057@0.23.1440.877" timestamp="1586141596833" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1586141596835">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247922959" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1591247922959">
+      <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591237164108" />
     <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877/1440.-157.1920.1057/-1920.-114.1920.1057@0.23.1440.877" timestamp="1586012617937" />
     <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057/-1920.23.1920.1057@0.23.1440.877" timestamp="1586141596835" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247922959" />
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom" timestamp="1591247922956">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591236961853" />
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247922956" />
+    <state width="1877" height="351" key="GridCell.Tab.1.center" timestamp="1591247922956">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591236961853" />
+    <state width="1877" height="351" key="GridCell.Tab.1.center/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247922956" />
+    <state width="1877" height="351" key="GridCell.Tab.1.left" timestamp="1591247922956">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591236961853" />
+    <state width="1877" height="351" key="GridCell.Tab.1.left/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247922956" />
+    <state width="1877" height="351" key="GridCell.Tab.1.right" timestamp="1591247922956">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1591236961853" />
+    <state width="1877" height="351" key="GridCell.Tab.1.right/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247922956" />
+    <state x="461" y="199" key="SettingsEditor" timestamp="1591247629147">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="461" y="199" key="SettingsEditor/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247629147" />
+    <state x="662" y="153" width="596" height="804" key="find.popup" timestamp="1591247650257">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="662" y="153" width="596" height="804" key="find.popup/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247650257" />
+    <state x="616" y="258" key="run.anything.popup" timestamp="1591247879861">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="616" y="258" key="run.anything.popup/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1591247879861" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$Main.ic" NAME="Main Coverage Results" MODIFIED="1591237164072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LeetCode$TwoSum.ic" NAME="TwoSum Coverage Results" MODIFIED="1591236961729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
