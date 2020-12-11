@@ -35,7 +35,7 @@ public class IntersectionOfTwoArraysII {
     }
 
 
-    public int[] intersect(int[] nums1, int[] nums2) {
+    public int[] intersect1(int[] nums1, int[] nums2) {
 
         Arrays.sort(nums1);
         Arrays.sort(nums2);
@@ -45,7 +45,7 @@ public class IntersectionOfTwoArraysII {
 
         ArrayList<Integer> list = new ArrayList<>();
 
-        int i, j = 0;
+        int i = 0, j = 0;
         while (i < length1 && j < length2) {
             var a = nums1[i];
             var b = nums2[i];

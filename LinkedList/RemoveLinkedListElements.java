@@ -42,7 +42,7 @@ public class RemoveLinkedListElements {
     }
 }
 
-public class ListNode{
+class ListNode{
     int val;
     ListNode next;
     ListNode(int x){val=x;}
