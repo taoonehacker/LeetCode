@@ -45,7 +45,11 @@ public class IntersectionOfTwoArraysII {
 
         ArrayList<Integer> list = new ArrayList<>();
 
+<<<<<<< HEAD
         int i = 0, j = 0;
+=======
+        int i=0, j = 0;
+>>>>>>> 3023dfeffa060fc8b85ad55e558eff76ae071a95
         while (i < length1 && j < length2) {
             var a = nums1[i];
             var b = nums2[i];

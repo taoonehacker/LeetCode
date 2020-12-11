@@ -40,11 +40,19 @@ public class RemoveLinkedListElements {
         }
         return head;
     }
-}
+    public class ListNode{
+        int val;
+        ListNode next;
+        ListNode(int x){val=x;}
+    }
 
+<<<<<<< HEAD
 class ListNode{
     int val;
     ListNode next;
     ListNode(int x){val=x;}
+=======
+>>>>>>> 3023dfeffa060fc8b85ad55e558eff76ae071a95
 }
+
 
